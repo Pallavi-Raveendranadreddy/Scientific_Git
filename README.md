@@ -23,8 +23,8 @@ Step 6: Perform the Calculator Operation in MainActivity.java
 Step 7: Save and run the application.
 
 ## PROGRAM:
-### DEVELOPED BY : VINOD KUMAR S
-### REGISTER NO : 212222240116
+### DEVELOPED BY : valasareddy pallavi
+### REGISTER NO : 212221240059
 
 ### MainActivity.java:
 ```python
